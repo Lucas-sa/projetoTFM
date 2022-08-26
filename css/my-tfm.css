@@ -11,13 +11,14 @@ body {
     height: 100%;
     margin: 0;
     overflow: auto;
-    background-image: url('../img/fundo1.jpg');
-    background-size: 1800px;
+    background-image: url('../img/fundo2.jpg');
+    background-size: 1600px;
     background-repeat: repeat-y;
 }
 
 .conteudo {
     background: rgba(255, 255, 255, 0.6);
+    margin-bottom: -7px;
 }
 
 a {
